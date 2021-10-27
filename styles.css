@@ -46,3 +46,7 @@ h1 {
 img {
     width: 30rem;
 }
+
+div > p {
+    font-size: large;
+}
