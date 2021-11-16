@@ -1,0 +1,52 @@
+.header {
+    color: #3333FF;
+}
+
+a:link {
+    color: #125C99;
+}
+
+a:hover {
+    color: #982100;
+}
+
+a:visited {
+    color: #3C155C;
+}
+
+.one {
+    border: 3px dashed #8282ec;;
+}
+
+.two {
+    border: 3px dashed #e382ec;
+}
+
+.three {
+    border: 3px dashed #d8c3a4;
+}
+
+.pretty {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.cool {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: #3C155C;
+}
+
+#back {
+    background-color: #d6d460;
+}
+
+h1 {
+    background-color: #ff0000;
+}
+
+img {
+    width: 30rem;
+}
+
+div p {
+    font-size: large;
+}
